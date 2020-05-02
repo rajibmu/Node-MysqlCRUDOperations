@@ -1,4 +1,4 @@
-<h1># Node-MysqlCRUDOperations</h1>
+<h1># Node.js + MySql CRUD Operations</h1>
 Node js with Mysql for CRUD Operations
 
 1. Intialise npm
